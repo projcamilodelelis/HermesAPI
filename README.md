@@ -6,7 +6,7 @@ API que serve o sistema gerenciamento de documentos do portal da transparência 
 
 ## Sobre o projeto
 
-Este é um projeto desenvolvido pelos alunos, do curso de Análise e Desenvolvimento de Sistemas, Mathews Baio, Renan Guedes, Samuel Costa e William Bruno para a disciplina de extensão PIEX, e é uma colaboração entre o Instituto Vianna Júnior e a Casa São Camilo de Lelis (de Juiz e Fora - MG).
+Este é um projeto desenvolvido pelos alunos, do curso de Análise e Desenvolvimento de Sistemas, Mathews Baio, Renan Guedes, Samuel Costa e William Bruno para a disciplina de extensão PIEX, e é uma colaboração entre o Instituto Vianna Júnior e a Casa São Camilo de Lelis (de Juiz de Fora - MG).
 
 ### Objetivo
 
@@ -18,7 +18,7 @@ Este é um projeto desenvolvido pelos alunos, do curso de Análise e Desenvolvim
 
 ![Arquitetura da API](repo_assets/Esboco-Arquitetura-API.svg)
 
-<https://excalidraw.com/#json=dKFkPbq8kc1KpFraWs3_4,2I3BkZb96CQR9xk-K7AN2g>
+<https://excalidraw.com/#json=W-lCQ6JAa8Kl1XUXGnswg,oxk1AWWp-Huxk46VPL4q5w>
 
 ## Documentação da API
 
